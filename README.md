@@ -98,3 +98,9 @@ The platform was specifically designed to improve:
 # Additional Notes
 
 This application is a custom operational solution developed specifically for tourism control workflows and checkpoint registration environments. The system prioritizes lightweight cloud infrastructure, accessibility, and real-time synchronization using Google Workspace technologies instead of traditional database servers.
+
+
+
+## 📹 VIDEO-CODE
+
+[![Video-Code](https://img.shields.io/badge/Ver_Video-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/EyOmixH-Ukc)
